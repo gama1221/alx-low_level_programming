@@ -32,6 +32,20 @@
 - How to print variables using printf
 - What is the ASCII character set
 - What are the purpose of the gcc flags -m32 and -m64
+## 0x02. C - Functions, nested loops
+2. [0x02. C - Functions, nested loops](https://github.com/gama1221/alx-low_level_programming/tree/main/0x02-functions_nested_loops)
+- What are nested loops and how to use them
+- What is a function and how do you use functions
+- What is the difference between a declaration and a definition of a function
+- What is a prototype
+- Scope of variables
+- What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89
+- What are header files and how to to use them with #include
+## 0x03. C - Debugging
+3. [0x03. C - Debugging](https://github.com/gama1221/alx-low_level_programming/tree/main/0x03-debugging)
+- What is debugging
+- What are some methods of debugging manually
+- How to read the error messages
 ## Author
 1. [WhatsApp](https://wa.me/+251991732949)
 2. [Telegram](https://t.me/gama2112)

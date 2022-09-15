@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
   * _isupper - Check if a letter is upper
   * @x: The number to be checked
@@ -11,9 +11,7 @@ int _isupper(int c)
 	{
 		return (1);
 	}
-	else{
+	else
 		return (0);
-
-	}
 }
 

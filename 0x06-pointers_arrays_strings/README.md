@@ -38,7 +38,7 @@
 
         - Prototype: char *cap_string(char *);
         - Separators of words: space, tabulation, new line, ,, ;, ., !, ?, ", (, ), {, and }
-7. [Expect the best. Prepare for the worst. Capitalize on what comes](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/6-cap_string.c)](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/7-leet.c)
+7. [Expect the best. Prepare for the worst. Capitalize on what comes](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/7-leet.c)
     - Write a function that encodes a string into 1337.
         - Letters a and A should be replaced by 4
         - Letters e and E should be replaced by 3
@@ -50,7 +50,7 @@
         - You can only use two loops in your code
         - You are not allowed to use switch
         - You are not allowed to use any ternary operation
-8. [ rot13](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/6-cap_string.c)](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/100-rot13.c)
+8. [ rot13](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/100-rot13.c)
     - Write a function that encodes a string using rot13.
 
         - Prototype: char *rot13(char *);
@@ -58,7 +58,7 @@
         - You can only use two loops in your code
         - You are not allowed to use switch
         - You are not allowed to use any ternary operation
-9. [ Numbers have life; they're not just symbols on paper](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/6-cap_string.c)](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/101-print_number.c)
+9. [ Numbers have life; they're not just symbols on paper](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/101-print_number.c)
     - Write a function that prints an integer.
 
         - Prototype: void print_number(int n);
@@ -66,7 +66,7 @@
         - You are not allowed to use long
         - You are not allowed to use arrays or pointers
         - You are not allowed to hard-code special values
-10. [A dream doesn't become reality through magic; it takes sweat, determination and hard work](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/6-cap_string.c)](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/102-magic.c)      
+10. [A dream doesn't become reality through magic; it takes sweat, determination and hard work](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/102-magic.c)      
     - Add one line to this code, so that the program prints a[2] = 98, followed by a new line.
 
         - You are not allowed to use the variable a in your new line of code
@@ -78,7 +78,7 @@
         - Do not remove anything from the initial code (not even the comments)
         - and don’t change anything but the line of code you are adding (don’t change the spaces to tabs!)
         - You are allowed to use the standard library
-11. [ It is the addition of strangeness to beauty that constitutes the romantic character in art](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/6-cap_string.c)](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/103-infinite_add.c)  
+11. [ It is the addition of strangeness to beauty that constitutes the romantic character in art](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/103-infinite_add.c)  
     - Write a function that adds two numbers.
 
         - Prototype: char *infinite_add(char *n1, char *n2, char *r, int size_r);
@@ -90,9 +90,9 @@
         - You can assume that there will be only digits in the strings n1 and n2
         - n1 and n2 will never be empty
         - If the result can not be stored in r the function must return 0
-12. [Noise is a buffer, more effective than cubicles or booth walls](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/6-cap_string.c)](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/104-print_buffer.c)      
+12. [Noise is a buffer, more effective than cubicles or booth walls](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/104-print_buffer.c)      
     - Write a function that prints a buffer.
-    
+
         - Prototype: void print_buffer(char *b, int size);
         - The function must print the content of size bytes of the buffer pointed by b
         - The output should print 10 bytes per line

@@ -1,5 +1,6 @@
 # Welcome to ALX Low Level Programming
 ## 0x06. C - More pointers, arrays and strings
+![logo](https://github.com/gama1221/alx-low_level_programming/blob/main/0x06-pointers_arrays_strings/image/happy-clapping.gif) 
 ### Tasks
 0. [strcat](https://github.com/gama1221/alx-low_level_programming/tree/main/0x06-pointers_arrays_strings/0-strcat.c)
 	- Write a function that concatenates two strings.

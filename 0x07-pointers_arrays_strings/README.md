@@ -1,4 +1,3 @@
-#ALX School - 0x07-pointers_arrays_strings Building on pointers: Pointers to Pointers, and arrays of arrays
 # Welcome to ALX Low Level Programming
 ## 0x07. C - Even more pointers, arrays and strings
 ![logo](https://github.com/gama1221/alx-low_level_programming/blob/main/0x07-pointers_arrays_strings/image/0x07.jpg) 
